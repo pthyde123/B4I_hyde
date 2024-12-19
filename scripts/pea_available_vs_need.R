@@ -10,9 +10,9 @@ B4I_FINAL_pea_seed_list <- read_excel("data/B4I_FINAL_pea_seed_list.xlsx")
 
 
 ### number of plots needed per accession from Cynthia 
-final_data_count1 <- read_csv("data/final_data_count1.csv")
+##final_data_count1 <- read_csv("data/final_data_count1.csv")
 
-
+final_data_count1 <- Seed_distribution <- read_csv("data/Seed_distribution.csv")
 
 pea_seed_available <- B4I_FINAL_pea_seed_list %>% 
   mutate(pea_g_available = as.numeric(if_else(`SEED_AVAILABLE(g)` ==">1000","1500",`SEED_AVAILABLE(g)`))) %>%  

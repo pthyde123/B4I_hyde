@@ -14,11 +14,16 @@ update_pea_oat_experiment_design <- read_csv("data/update_pea_oat_experiment_des
 
 B4I_FINAL_pea_seed_list <- read_excel("data/B4I_FINAL_pea_seed_list.xlsx")
 
-pea_seed_available <- B4I_FINAL_pea_seed_list %>% 
-  mutate(pea_g_available = as.numeric(if_else(`SEED_AVAILABLE(g)` ==">1000","1500",`SEED_AVAILABLE(g)`))) %>%  # change >1000 to 1500(the grams sent)
-  select(NAME,pea_g_available,`TSW(g)`,GERM_RESULTS) %>% 
-  rename(accession = NAME)
 
+pea_seed_available <- B4I_FINAL_pea_seed_list %>% 
+  
+  select(NAME:GERM_RESULTS,`First Flower`,Maturity) %>% 
+  
+  mutate(pea_g_available = as.numeric(if_else(`SEED_AVAILABLE(g)` ==">1000","1500",`SEED_AVAILABLE(g)`))) %>%  # change >1000 to 1500(the grams sent)
+  mutate(peaEntry = seq(1:239)) %>%   # peaEntry is a more readable SN for for the pea names, pea names are arranged alphabeicaly and by trial stage descending
+  rename(accessionPea = NAME) %>% 
+  relocate(peaEntry)
+  
 
 
 #### create PEA bulk pack list #### 
@@ -26,31 +31,32 @@ pea_seed_available <- B4I_FINAL_pea_seed_list %>%
 
 bulk_pea <- update_pea_oat_experiment_design %>% 
   select(!combo) %>% #remove old combo
-  rename(accession = Pea) %>% 
+  rename(accessionPea = Pea) %>% 
   
-  left_join(pea_seed_available, by = join_by(accession == accession)) %>% # join seed needs(cynthia) with seed have (garrett)
+  left_join(pea_seed_available, by = join_by(accessionPea == accessionPea)) %>% # join seed needs(cynthia) with seed have (garrett)
   
   mutate(seed_per_plot = (5 * 60)) %>%     #5 seeds/sqft for pea (60% of full rate, 8 seeds/sqft) # rate from email
   mutate(seed_per_gram = (1000/`TSW(g)`)) %>%  #calculate the seed per grams for each accession 
   mutate(g_pea_per_plot = (seed_per_plot / seed_per_gram)/GERM_RESULTS) %>% # calculate the seed grams of seed per plot for each accessions to get the desired seeding rate, including seed size and germination rate
   
-  select(accession,Replication, Location, PlotNumber, combo2, g_pea_per_plot) %>% 
+  select(peaEntry,accessionPea,Replication, Location, PlotNumber, combo2, g_pea_per_plot) %>% 
   
-  group_by(accession, Location) %>% 
-  summarize(g_pea_per_location = sum(g_pea_per_plot)) %>% # the grams of seed for each accession needed at each location. 
+  group_by(peaEntry, accessionPea, Location) %>% 
+  summarize(g_pea_per_location = round(sum(g_pea_per_plot),1)) %>% # the grams (rounded for labels printing) of seed for each accession needed at each location. 
   
   ungroup() %>% 
   mutate(bulk_pack = seq(1:982)) %>% 
-  relocate(bulk_pack)
+  relocate(bulk_pack) %>% 
+  mutate()
 
 bulk_pea
 
 #double check, calculate extra seed from bulk pack list 
 
 bulk_pea %>% 
-  group_by(accession) %>% 
+  group_by(accessionPea) %>% 
   summarise(g_pea_per_accession = sum(g_pea_per_location)) %>% 
-  left_join(pea_seed_available, by = join_by(accession == accession)) %>% # join seed needs(cynthia) with seed have (garrett)
+  left_join(pea_seed_available, by = join_by(accessionPea == accessionPea)) %>% # join seed needs(cynthia) with seed have (garrett)
   
   mutate(extra_seed = (pea_g_available - g_pea_per_accession)) %>% #how much seed do we have minus how much seed do we need
   

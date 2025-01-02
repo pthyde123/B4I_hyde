@@ -80,6 +80,22 @@ write.csv(bulk_pea,"data/bulk_pea.csv", row.names = FALSE)
 
 
 
+# peaEntry, accessionPea list for sorting packs
+bulk_pea %>% 
+  select(peaEntry,accessionPea) %>% 
+  unique()
+
+write.csv(bulk_pea %>% 
+            select(peaEntry,accessionPea) %>% 
+            unique(),
+          "data/peaEntry-accessionPea.csv", row.names = FALSE)
+
+
+
+
+
+
+
 #### create OAT bulk pack list ####
 
 bulk_oat <- update_pea_oat_experiment_design %>% 

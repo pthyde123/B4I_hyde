@@ -118,5 +118,5 @@ bulk_oat %>%
 
 # write csv
 
-write.csv(bulk_oat,"data/draft_bulk_oat.csv", row.names = FALSE) 
+write.csv(bulk_oat,"data/bulk_oat.csv", row.names = FALSE) 
 

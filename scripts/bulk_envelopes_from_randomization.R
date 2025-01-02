@@ -42,12 +42,21 @@ bulk_pea <- update_pea_oat_experiment_design %>%
   select(peaEntry,accessionPea,Replication, Location, PlotNumber, combo2, g_pea_per_plot) %>% 
   
   group_by(peaEntry, accessionPea, Location) %>% 
-  summarize(g_pea_per_location = round(sum(g_pea_per_plot),1)) %>% # the grams (rounded for labels printing) of seed for each accession needed at each location. 
+  summarize(g_pea_per_location = round(sum(g_pea_per_plot),1),
+            nPlots = n()) %>% # the grams (rounded for labels printing) of seed for each accession needed at each location. 
   
   ungroup() %>% 
   mutate(bulk_pack = seq(1:982)) %>% 
   relocate(bulk_pack) %>% 
-  mutate()
+  
+  mutate(state = if_else(Location == 1,"AL",
+                         if_else(Location == 2,"IA",
+                                 if_else(Location == 3, "IL",
+                                         if_else(Location == 4, "ND", 
+                                                 if_else(Location == 5, "NY", "ERROR"))))))
+
+
+
 
 bulk_pea
 

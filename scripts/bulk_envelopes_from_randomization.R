@@ -91,7 +91,11 @@ write.csv(bulk_pea %>%
           "data/peaEntry-accessionPea.csv", row.names = FALSE)
 
 
+# Location designation
 
+write.table((bulk_pea %>% 
+  select(Location,state) %>% 
+  unique()),"clipboard", sep = "\t", row.names = FALSE)
 
 
 

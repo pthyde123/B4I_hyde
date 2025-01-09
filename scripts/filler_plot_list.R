@@ -13,7 +13,7 @@ peaEntry_reweigh_1_5_25 <- read_excel("data/peaEntry-reweigh 1.5.25.xlsx")
 peaEntry_negative <- peaEntry_reweigh_1_5_25 %>% 
   
   mutate(pea_g_available = as.numeric(if_else(`SEED_AVAILABLE(g)` ==">1000","1500",`SEED_AVAILABLE(g)`))) %>%  # change >1000 to 1500(the grams sent)
-  mutate(peaEntry = seq(1:239)) %>%   # peaEntry is a more readable SN for for the pea names, pea names are arranged alphabeicaly and by trial stage descending
+  mutate(peaEntry = seq(1:239)) %>%   # peaEntry is a more readable SN for for the pea names, pea names are arranged alphabetically and by trial stage descending
   rename(accessionPea = NAME) %>% 
   relocate(peaEntry) %>% 
   select(peaEntry,accessionPea,`pack weight 1.5.25`) %>% 
@@ -24,10 +24,10 @@ peaEntry_negative <- peaEntry_reweigh_1_5_25 %>%
 bulk_pea <- read_csv("data/bulk_pea.csv")
 
 
-### joined the bulkpack list list of accession that did not have enough seed
+### joined the bulk pack list list of accession that did not have enough seed
 negative_accessionPea <-bulk_pea %>% 
   group_by(accessionPea) %>% 
-  summarise(g_pea_per_accession = sum(g_pea_per_location)) %>% # caclulate the total amound of seed needed for each entry(per randomization)
+  summarise(g_pea_per_accession = sum(g_pea_per_location)) %>% # calculate the total amount of seed needed for each entry(per randomization)
   left_join(peaEntry_negative) %>% 
   filter(!is.na (`pack weight 1.5.25`)) %>% 
   mutate(seed_available_1.5.25 = `pack weight 1.5.25`- g_pea_per_accession )
@@ -48,7 +48,7 @@ pea_seed_available <- B4I_FINAL_pea_seed_list %>%
   select(NAME:GERM_RESULTS,`First Flower`,Maturity) %>% 
   
   mutate(pea_g_available = as.numeric(if_else(`SEED_AVAILABLE(g)` ==">1000","1500",`SEED_AVAILABLE(g)`))) %>%  # change >1000 to 1500(the grams sent)
-  mutate(peaEntry = seq(1:239)) %>%   # peaEntry is a more readable SN for for the pea names, pea names are arranged alphabeicaly and by trial stage descending
+  mutate(peaEntry = seq(1:239)) %>%   # peaEntry is a more readable SN for for the pea names, pea names are arranged alphabetically and by trial stage descending
   rename(accessionPea = NAME) %>% 
   relocate(peaEntry)
 

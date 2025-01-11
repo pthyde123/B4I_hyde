@@ -102,21 +102,41 @@ write.table((bulk_pea %>%
 
 #### create OAT bulk pack list ####
 
+
+#shipment labels from Juan, use for oatEntry number on bulk pack
+
+X2025_iCrop_Oat_Seed_Shipment_labels <- read_excel("data/2025_iCrop_Oat-Seed-Shipment_labels.xlsx")
+
+oatEntry <- X2025_iCrop_Oat_Seed_Shipment_labels %>% 
+  select(sn,accession) %>% 
+  rename(accessionOat = accession) %>%
+  rename(oatEntry = sn)
+
+
 bulk_oat <- update_pea_oat_experiment_design %>% 
   select(!combo) %>% #remove old combo
-  rename(accession = Oat) %>% 
+  rename(accessionOat = Oat) %>% 
   
   mutate(g_oat_per_plot = 24) %>% # Juan's quote from email
   mutate(oat_g_available = 480) %>% # amount of seed Juan is planning to send +10%
   
-  select(accession,Replication, Location, PlotNumber, combo2, g_oat_per_plot) %>% 
+  select(accessionOat,Replication, Location, PlotNumber, combo2, g_oat_per_plot) %>% 
   
-  group_by(accession, Location) %>% 
-  summarize(g_oat_per_location = sum(g_oat_per_plot)) %>% # the grams of seed for each accession needed at each location. 
+  group_by(accessionOat, Location) %>% 
+  summarize(g_oat_per_location = round(sum(g_oat_per_plot),1),
+            nPlots = n()) %>% # the grams of seed for each accession needed at each location. 
   
   ungroup() %>% 
   mutate(bulk_pack = seq(1:1064)) %>% 
-  relocate(bulk_pack)
+  relocate(bulk_pack) %>% 
+  
+  mutate(state = if_else(Location == 1,"AL", # change location numbers to State
+                         if_else(Location == 2,"IA",
+                                 if_else(Location == 3, "IL",
+                                         if_else(Location == 4, "ND", 
+                                                 if_else(Location == 5, "NY", "ERROR")))))) %>% 
+
+  left_join(oatEntry)  # add oatEntry from Juans packs
 
 bulk_oat
 
@@ -124,13 +144,13 @@ bulk_oat
 #double check, calculate extra seed from bulk pack list 
 
 bulk_oat %>% 
-  group_by(accession) %>% 
+  group_by(accessionOat) %>% 
   summarise(g_oat_per_accession = sum(g_oat_per_location)) %>% 
   mutate(oat_g_available = 480) %>% 
   
   mutate(extra_seed = (oat_g_available - g_oat_per_accession)) %>% #how much seed do we have minus how much seed do we need
   
-  arrange(extra_seed) %>% 
+  #arrange(extra_seed)%>% 
   print(n= nrow(bulk_oat))
 
 
@@ -138,5 +158,42 @@ bulk_oat %>%
 
 # write csv
 
-write.csv(bulk_oat,"data/draft_bulk_oat.csv", row.names = FALSE) 
+write.csv(bulk_oat,"data/bulk_oat.csv", row.names = FALSE) 
+
+
+
+
+### bulk pack formatted for label
+
+library(tidyverse)
+library(readr)
+
+
+
+### making csv for use on Sorrells envelop printer
+### file must must have these headers in this order 
+###     source,plotNo,oatName,peaName
+### arrange by oatname so all plots for a given accession are together for seed separating from bulk bag
+
+
+
+bulk_oat %>% 
+  mutate(source = str_c("oatEntry ",oatEntry)) %>% 
+  
+  mutate(plotNo = accessionOat) %>% 
+  
+  mutate(oatName = str_c(g_oat_per_location," g for ", nPlots, " plots")) %>%
+  
+  mutate(peaName = state) %>% 
+  
+  arrange(oatEntry, state) %>% 
+  
+  select(source,plotNo,oatName,peaName) %>% 
+  
+  write.csv( "data/2025_B4I_bulk_oat_labels.csv", row.names = F)
+
+
+
+
+
 

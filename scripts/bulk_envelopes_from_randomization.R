@@ -91,6 +91,17 @@ write.csv(bulk_pea %>%
           "data/peaEntry-accessionPea.csv", row.names = FALSE)
 
 
+# count the number of pack per state for shipping double check
+
+bulk_pea %>% 
+  group_by(state) %>% 
+  count()
+
+
+
+
+
+
 # Location designation
 
 write.table((bulk_pea %>% 
@@ -139,6 +150,14 @@ bulk_oat <- update_pea_oat_experiment_design %>%
   left_join(oatEntry)  # add oatEntry from Juans packs
 
 bulk_oat
+
+
+### count number of pack sent to each locations for packing double check
+
+bulk_oat %>% 
+  group_by(state) %>% 
+  count()
+
 
 
 #double check, calculate extra seed from bulk pack list 

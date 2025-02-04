@@ -1,0 +1,8 @@
+crop,Expected,Current weight g,Expected g,Accession,sn,peaEntry,grams_needed,grams+10%
+oat,120g for 5plots,108.6,120,IL22-3958,66,NA,11.4,12.54
+oat,144g for 6plots,27.67,144,IL23-524,102,NA,116.33,127.963
+pea,338g for 5plots,300,338,NDP250049Y,NA,23,38,41.8
+pea,256.8 for 4plots,252,256.8,NDP250097Y,NA,71,4.8,5.28
+pea,354 for 5plots,345,354,NDP140295G,NA,170,9,9.9
+pea,202.8 for 4plots,195,202.8,NDP170043G,NA,204,7.8,8.58
+pea,306.3 for 5plots,150,306.3,NDP170056G,NA,207,156.3,171.93

@@ -15,11 +15,13 @@ oatEntry <- read_csv("data/bulk_oat.csv") %>%
   select(accessionOat,oatEntry)
 
 
+peaEntry <- read_csv("data/peaEntry-accessionPea.csv") %>% 
+  select(peaEntry,NAME)
 
 
 unique(B4I_2025_t3_upload_draft$location)
 
-B4I_2025_t3_upload_draft %>% 
+oat_envelopes <- B4I_2025_t3_upload_draft %>% 
   filter(location == "Ithaca, NY") %>% 
   select(plot_number,accession_name,intercrop_accession_name) %>% 
   group_by(accession_name) %>% 
@@ -27,15 +29,25 @@ B4I_2025_t3_upload_draft %>%
   ungroup() %>% 
   mutate(peaName = intercrop_accession_name) %>% 
   mutate(oatName = accession_name) %>% 
-  mutate(PlotNo = plot_number) %>%
+  mutate(PlotNo = str_sub (as.character(plot_number),-3)) %>%
   
   
-  left_join(oatEntry, join_by(accession_name==accessionOat)) %>% 
+  left_join(oatEntry, join_by(accession_name==accessionOat)) %>%
+  
+  left_join(peaEntry, join_by(intercrop_accession_name==NAME)) %>% 
   
   arrange(oatEntry,oatName) %>% 
-  select(n,oatEntry,PlotNo,oatName,peaName) %>% 
-  print(n = 400)
+  mutate(source = str_c("oatE ",oatEntry, "   plots ",n)) %>% 
+  mutate(peaName = str_c(peaName, " peaE ", peaEntry)) %>%
   
+  
+  select(source,PlotNo,oatName,peaName)
+
+
+oat_envelopes
+
+write.csv(oat_envelopes, "data/sp2025_oat_envelopes.csv",row.names = F)
+
 
 
 

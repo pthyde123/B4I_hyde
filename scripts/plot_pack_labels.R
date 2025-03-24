@@ -52,4 +52,52 @@ write.csv(oat_envelopes, "data/sp2025_oat_envelopes.csv",row.names = F)
 
 
 
+### PEA PACKS 3.24.25
+
+B4I_2025_t3_upload <- read_csv("data/B4I_2025_t3_upload.csv")
+
+
+bulk_pea <- read_csv("data/bulk_pea.csv") %>% 
+  filter(state == "NY") %>% 
+  select(accessionPea,peaEntry)
+  
+  
+
+oatEntry <- read_csv("data/bulk_oat.csv") %>% 
+  filter(state == "NY") %>% 
+  select(accessionOat,oatEntry)
+
+peaEntry <- read_csv("data/peaEntry-accessionPea.csv") %>% 
+  select(peaEntry,NAME)
+
+
+unique(B4I_2025_t3_upload$location)
+
+
+pea_envelopes <- B4I_2025_t3_upload %>% 
+  filter(location == "Ithaca, NY") %>% 
+  select(plot_number,accession_name,intercrop_accession_name) %>% 
+  group_by(intercrop_accession_name) %>% 
+  add_count() %>%
+  ungroup() %>% 
+  mutate(peaName = intercrop_accession_name) %>% 
+  mutate(oatName = accession_name) %>% 
+  mutate(PlotNo = str_sub (as.character(plot_number),-3)) %>%
+  
+  
+  left_join(oatEntry, join_by(accession_name==accessionOat)) %>%
+  
+  left_join(peaEntry, join_by(intercrop_accession_name==NAME)) %>% 
+  
+  arrange(n,peaEntry,peaName) %>% # added in sort by the number of plots, the peas will be packed by number of plots, then accession
+  mutate(source = str_c("peaE ",peaEntry, "   plots ",n)) %>% 
+  mutate(oatName = str_c(oatName, " oatE ", oatEntry)) %>%
+  
+  
+  select(source,PlotNo,oatName,peaName)
+
+
+pea_envelopes
+
+
 

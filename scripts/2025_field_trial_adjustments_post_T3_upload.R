@@ -56,9 +56,32 @@ AL_new_layout_3_24_25 %>%
 
 B4I_2025_t3_upload %>% 
   select(plot_name, plot_number,accession_name) %>% 
-  filter(plot_number == 1354) ## origional T3 accession upload for plot 1354 was "IL22-3958" 
+  filter(plot_number == 1354) ## original T3 accession upload for plot 1354 was "IL22-3958" 
 
 ### manually changed plot_number 1354 to accession "IL23-524" 
+
+
+
+### Create AL collection order for use in Field Book.  This can be added to field book layout and used to sort.  It will be droped upon database upload. 
+
+
+collection_order_AL <- read_csv("data/collection_order_AL.csv")
+
+AL_plot_collection_order <- collection_order_AL %>% 
+  select(plot_name, collection_order)
+
+AL_subplot_collection_order <- collection_order_AL %>% 
+  select(collection_order,type,plot_number,plot_name) %>% 
+  slice(rep(1:n(), each = 3)) %>% 
+  mutate(subplot = rep(seq(1,3,by=1), times=400)) %>% 
+  mutate(subplot_name = str_c(plot_name, "_subplot_",subplot)) %>% 
+  select(subplot_name, collection_order)
+
+#write.csv(AL_plot_collection_order, "data/2025_AL_plot_collection_order.csv",row.names = F)
+
+#write.csv(AL_subplot_collection_order, "data/2025_AL_subplot_collection_order.csv",row.names = F)
+
+
 
 
 

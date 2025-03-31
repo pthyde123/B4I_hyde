@@ -1,0 +1,81 @@
+trial_name,breeding_program,location,year,design_type,description,trial_type,plot_width,plot_length,field_size,planting_date,harvest_date,plot_name,accession_name,plot_number,block_number,is_a_control,rep_number,range_number,row_number,col_number,seedlot_name,num_seed_per_plot,weight_gram_seed_per_plot,entry_number,is_private,intercrop_accession_name
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_101,ND190393,101,1,,,,1,1,,,,,,NDP140510Y
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_102,NO_OATS_PLANTED,102,1,,,,1,2,,,,,,ND VICTORY
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_202,NO_OATS_PLANTED,202,1,,,,2,1,,,,,,NDP140510Y
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_201,SD Momentum,201,1,,,,2,2,,,,,,ND VICTORY
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_301,ND210038,301,1,,,,3,1,,,,,,ND VICTORY
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_302,IL17-1704,302,1,,,,3,2,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_402,ND190393,402,1,,,,4,1,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_401,ND Spilde,401,1,,,,4,2,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_501,ND190393,501,1,,,,5,1,,,,,,NDP150231Y
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_502,IL17-1704,502,1,,,,5,2,,,,,,NDP150412G
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_602,IL17-1704,602,1,,,,6,1,,,,,,ND DAWN
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_601,SD Momentum,601,1,,,,6,2,,,,,,ND DAWN
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_701,ND Spilde,701,1,,,,7,1,,,,,,NDP150412G
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_702,SD Momentum,702,1,,,,7,2,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_802,NO_OATS_PLANTED,802,1,,,,8,1,,,,,,ND DAWN
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_801,NO_OATS_PLANTED,801,1,,,,8,2,,,,,,NDP150231Y
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_901,ND Spilde,901,1,,,,9,1,,,,,,NDP150231Y
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_902,NO_OATS_PLANTED,902,1,,,,9,2,,,,,,NDP150412G
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_1002,ND210038,1002,1,,,,10,1,,,,,,NDP140510Y
+B4I_2025_PM3D_IL,Intercropping Cooperative,"Urbana, IL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IL_1001,ND210038,1001,1,,,,10,2,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_01,ND190393,1,1,,,,1,1,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_02,IL17-1704,2,1,,,,2,1,,,,,,ND VICTORY
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_03,NO_OATS_PLANTED,3,1,,,,3,1,,,,,,NDP150412G
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_04,ND210038,4,1,,,,4,1,,,,,,ND DAWN
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_05,IL17-1704,5,1,,,,5,1,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_06,ND190393,6,1,,,,6,1,,,,,,NDP150231Y
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_07,NO_OATS_PLANTED,7,1,,,,7,1,,,,,,ND DAWN
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_08,SD Momentum,8,1,,,,8,1,,,,,,NDP140510Y
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_09,ND210038,9,1,,,,9,1,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_10,ND Spilde,10,1,,,,10,1,,,,,,NDP140510Y
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_11,SD Momentum,11,1,,,,1,2,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_12,ND Spilde,12,1,,,,2,2,,,,,,ND DAWN
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_13,NO_OATS_PLANTED,13,1,,,,3,2,,,,,,ND VICTORY
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_14,IL17-1704,14,1,,,,4,2,,,,,,NDP150231Y
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_15,ND Spilde,15,1,,,,5,2,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_16,SD Momentum,16,1,,,,6,2,,,,,,NDP150412G
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_17,NO_OATS_PLANTED,17,1,,,,7,2,,,,,,NDP150231Y
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_18,ND210038,18,1,,,,8,2,,,,,,NDP150412G
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_19,NO_OATS_PLANTED,19,1,,,,9,2,,,,,,NDP140510Y
+B4I_2025_PM3D_ND,Intercropping Cooperative,"Carrington, ND",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_ND_20,ND190393,20,1,,,,10,2,,,,,,ND VICTORY
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_01,NO_OATS_PLANTED,1,1,,,,1,1,,,,,,NDP150231Y
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_02,ND210038,2,1,,,,2,1,,,,,,ND DAWN
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_03,IL17-1704,3,1,,,,3,1,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_04,ND Spilde,4,1,,,,4,1,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_05,ND Spilde,5,1,,,,5,1,,,,,,NDP150231Y
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_06,NO_OATS_PLANTED,6,1,,,,6,1,,,,,,NDP150412G
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_07,SD Momentum,7,1,,,,7,1,,,,,,NDP150412G
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_08,NO_OATS_PLANTED,8,1,,,,8,1,,,,,,ND VICTORY
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_09,SD Momentum,9,1,,,,9,1,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_10,ND210038,10,1,,,,10,1,,,,,,NDP150412G
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_11,NO_OATS_PLANTED,11,1,,,,1,2,,,,,,ND DAWN
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_12,ND190393,12,1,,,,2,2,,,,,,ND DAWN
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_13,ND190393,13,1,,,,3,2,,,,,,NDP140510Y
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_14,ND Spilde,14,1,,,,4,2,,,,,,NDP150231Y
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_15,NO_OATS_PLANTED,15,1,,,,5,2,,,,,,NDP140510Y
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_16,ND190393,16,1,,,,6,2,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_17,IL17-1704,17,1,,,,7,2,,,,,,ND VICTORY
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_18,SD Momentum,18,1,,,,8,2,,,,,,NDP140510Y
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_19,IL17-1704,19,1,,,,9,2,,,,,,ND VICTORY
+B4I_2025_PM3D_NY,Intercropping Cooperative,"Ithaca, NY",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_NY_20,ND210038,20,1,,,,10,2,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_401,ND Spilde,401,1,,,,1,2,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_402,SD Momentum,402,1,,,,1,1,,,,,,NDP150231Y
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_403,SD Momentum,403,1,,,,2,1,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_404,NO_OATS_PLANTED,404,1,,,,2,2,,,,,,NDP140510Y
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_405,ND190393,405,1,,,,3,2,,,,,,ND VICTORY
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_406,ND210038,406,1,,,,3,1,,,,,,ND DAWN
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_407,SD Momentum,407,1,,,,4,1,,,,,,ND DAWN
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_408,NO_OATS_PLANTED,408,1,,,,4,2,,,,,,ND DAWN
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_409,ND210038,409,1,,,,5,2,,,,,,ND VICTORY
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_410,ND190393,410,1,,,,5,1,,,,,,NDP140510Y
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_411,NO_OATS_PLANTED,411,1,,,,6,1,,,,,,NDP150412G
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_412,IL17-1704,412,1,,,,6,2,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_413,IL17-1704,413,1,,,,7,2,,,,,,NDP140510Y
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_414,ND Spilde,414,1,,,,7,1,,,,,,NDP150412G
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_415,ND190393,415,1,,,,8,1,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_416,NO_OATS_PLANTED,416,1,,,,8,2,,,,,,NDP150231Y
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_417,ND Spilde,417,1,,,,9,2,,,,,,NDP150412G
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_418,ND210038,418,1,,,,9,1,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_419,IL17-1704,419,1,,,,10,1,,,,,,NDP150231Y
+B4I_2025_PM3D_AL,Intercropping Cooperative,"Tallassee, AL",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_AL_420,NO_OATS_PLANTED,420,1,,,,10,2,,,,,,ND VICTORY

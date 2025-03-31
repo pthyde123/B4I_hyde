@@ -46,13 +46,18 @@ oat_envelopes <- B4I_2025_t3_upload_draft %>%
 
 oat_envelopes
 
-write.csv(oat_envelopes, "data/sp2025_oat_envelopes.csv",row.names = F)
+##write.csv(oat_envelopes, "data/sp2025_oat_envelopes.csv",row.names = F)
 
 
 
 
 
 ### PEA PACKS 3.24.25
+
+library(tidyverse)
+library(readr)
+
+
 
 B4I_2025_t3_upload <- read_csv("data/B4I_2025_t3_upload.csv")
 
@@ -98,6 +103,29 @@ pea_envelopes <- B4I_2025_t3_upload %>%
 
 
 pea_envelopes
+
+write.csv(pea_envelopes, "data/sp2025_pea_envelopes.csv",row.names = F)
+
+
+
+
+#####  Pea seed packs for genotyping
+
+peaEntry_accessionPea <- read_csv("data/peaEntry-accessionPea.csv")
+
+pea_genotype_envelopes <- peaEntry_accessionPea %>% 
+  filter(TRIAL_STAGE == "PYT") %>% 
+  select(peaEntry,NAME) %>% 
+  rename("peaName" = "NAME") %>% 
+  mutate(source = str_c("peaEntry ",peaEntry)) %>% 
+  mutate(PlotNo = "") %>% 
+  mutate(oatName = "") %>% 
+  select(source,PlotNo,oatName,peaName)
+  
+
+#write.csv(pea_genotype_envelopes, "data/2025_pea_genotype_envelopes.csv",row.names = F)
+
+
 
 
 

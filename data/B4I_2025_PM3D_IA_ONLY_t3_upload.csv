@@ -1,0 +1,21 @@
+trial_name,breeding_program,location,year,design_type,description,trial_type,plot_width,plot_length,field_size,planting_date,harvest_date,plot_name,accession_name,plot_number,block_number,is_a_control,rep_number,range_number,row_number,col_number,seedlot_name,num_seed_per_plot,weight_gram_seed_per_plot,entry_number,is_private,intercrop_accession_name
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_01,NO_OATS_PLANTED,1,1,,,,21,10,,,,,,NDP140510Y
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_02,ND190393,2,1,,,,20,10,,,,,,NDP150231Y
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_03,NO_OATS_PLANTED,3,1,,,,19,10,,,,,,NDP150231Y
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_04,NO_OATS_PLANTED,4,1,,,,18,10,,,,,,ND DAWN
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_05,IL17-1704,5,1,,,,17,10,,,,,,NDP140510Y
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_06,ND210038,6,1,,,,16,10,,,,,,ND VICTORY
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_07,ND Spilde,7,1,,,,15,10,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_08,SD Momentum,8,1,,,,14,10,,,,,,ND DAWN
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_09,SD Momentum,9,1,,,,13,10,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_10,IL17-1704,10,1,,,,12,10,,,,,,NDP140510Y
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_11,ND Spilde,11,1,,,,11,10,,,,,,NDP150412G
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_12,NO_OATS_PLANTED,12,1,,,,10,10,,,,,,ND VICTORY
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_13,ND210038,13,1,,,,9,10,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_14,SD Momentum,14,1,,,,8,10,,,,,,ND DAWN
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_15,IL17-1704,15,1,,,,7,10,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_16,ND190393,16,1,,,,6,10,,,,,,NDP150231Y
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_17,NO_OATS_PLANTED,17,1,,,,5,10,,,,,,NDP150412G
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_18,ND210038,18,1,,,,4,10,,,,,,ND VICTORY
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_19,ND190393,19,1,,,,3,10,,,,,,NO_PEAS_PLANTED
+B4I_2025_PM3D_IA,Intercropping Cooperative,"Johnson, IA",2025,CRD,B4I 2025 PM3D biomass sampling plots,phenotyping_trial,,,,,,B4I_2025_PM3D_IA_20,ND Spilde,20,1,,,,2,10,,,,,,NDP150412G

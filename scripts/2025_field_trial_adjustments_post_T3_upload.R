@@ -3,7 +3,7 @@ library(readr)
 library(tidyverse)
 library(caroline)
 
-### this is an updated layout sent to me from Cythia on March 19.  There are changes from the T3 trial upload that occured durring planting. 
+### this is an updated layout sent to me from Cythia on March 19.  There are changes from the T3 trial upload that occurred during planting. 
 # These changes include.  18 row column changes and 1 oat accession change.
 # the row column changes will are addressed in the the first set of code.  
 # I used the original T3 plot numbers and generated a file with the new row column designations.  

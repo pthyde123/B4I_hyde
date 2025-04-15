@@ -79,3 +79,49 @@ subplot_fieldbook <- bind_cols(IA_subplot,subplot_traits)
 subplot_fieldbook
 
 #write.csv(subplot_fieldbook, "data/B4I_2025_IA_subplot_collection.csv",row.names = F)
+
+
+########################################################
+
+
+
+#### IA PM3D layout for data collection
+library(tidyverse)
+library(readr)
+B4I_2025_PM3D_IA_layout <- read_csv("data/B4I_2025_PM3D_IA_layout.csv")
+
+X2025_PM3D_biomass_timepoints <- read_csv("data/2025_PM3D_biomass_timepoints.csv")
+
+library(readxl)
+B4I_2025_trait_summary <- read_excel("data/B4I_2025_trait_summary.xlsx")
+
+PM3D_subplot_traits <- B4I_2025_trait_summary %>% 
+  select(`T3/Oat Trait ID`,evaluation_level,likely_collection_order) %>% 
+  arrange(likely_collection_order) %>% 
+  filter(evaluation_level == "subplot") %>% 
+  rename(t3_subplot_traits = `T3/Oat Trait ID`) %>% 
+  select(t3_subplot_traits) %>% 
+  filter(str_detect(t3_subplot_traits, 'iomass'))
+
+
+subplot_traits_biomass <- data.frame(matrix(ncol = 9, nrow = 60))
+colnames(subplot_traits_biomass) <- PM3D_subplot_traits$t3_subplot_traits
+
+subplot_traits_biomass
+
+
+
+
+layout <- B4I_2025_PM3D_IA_layout %>% 
+  left_join(X2025_PM3D_biomass_timepoints, by = join_by("subplot_name" == "observationUnitName")) %>% 
+  select(subplot_name,accession_name,plot_number,subplot_number,block_number,row_number,col_number,biomass_timepoint,biomass_T1,biomass_T2,biomass_T3) %>% 
+  mutate(plot_subplot = str_c(plot_number,"_",subplot_number)) %>% 
+  relocate(plot_subplot)
+
+
+PM3D_IA_fieldbook <- bind_cols(layout, subplot_traits_biomass)
+
+
+PM3D_IA_fieldbook
+
+####write.csv(PM3D_IA_fieldbook, "data/B4I_2025_IA_PM3D_collection.csv",row.names = F)

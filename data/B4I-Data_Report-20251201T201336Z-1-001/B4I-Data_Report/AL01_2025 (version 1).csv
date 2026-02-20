@@ -1,0 +1,193 @@
+current_year,affiliation,timing,plot_id,count,missing,,,Image Name (from PlantMap3D app),Sample Date,Timing,Plot ID,Species,Dry Wt (g),,,Image Name (from PlantMap3D app),Sample Date,Timing,Plot ID,Species,Dry Wt (g)
+2025,AL01,1,AUOatPea402.1,4,biomass,added biomass,,AL-Wolfe_2025_TM-1_PL-AUOatPea402.1,3/4/2025,1,402.3,Oat,23,,,AL-Wolfe_2025_TM-1_PL-AUOatPea401.1,3/4/2025,1,AUOatPea401.1,Oat,48.35
+2025,AL01,1,AUOatPea403.1,4,biomass,added biomass,,AL-Wolfe_2025_TM-1_PL-AUOatPea403.1,3/4/2025,1,403.2,Oat,39.3,,,AL-Wolfe_2025_TM-1_PL-AUOatPea401.1,3/4/2025,1,AUOatPea401.1,Pea,0
+2025,AL01,1,AUOatPea404.1,4,biomass,added biomass,,AL-Wolfe_2025_TM-1_PL-AUOatPea404.1,3/4/2025,1,404.3,Oat,0,,,AL-Wolfe_2025_TM-1_PL-AUOatPea401.1,3/4/2025,1,AUOatPea401.1,Other,0
+2025,AL01,1,AUOatPea405.1,4,biomass,delete,,AL-Wolfe_2025_TM-1_PL-AUOatPea418.2,3/4/2025,1,417.3,Oat,41.75,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_401.2,5/12/2025,2,20EXTRAPLOTS_401.2,Oat,169.5
+2025,AL01,1,AUOatPea406.3,4,biomass,delete,,AL-Wolfe_2025_TM-1_PL-AUOatPea402.1,3/4/2025,1,402.3,Pea,28.2,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_401.2,5/12/2025,2,20EXTRAPLOTS_401.2,Pea,0
+2025,AL01,1,AUOatPea418.2,4,biomass,added biomass,,AL-Wolfe_2025_TM-1_PL-AUOatPea403.1,3/4/2025,1,403.2,Pea,0,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_401.2,5/12/2025,2,20EXTRAPLOTS_401.2,Other,0
+2025,AL01,1,AUOatPea402.3,2,image,used biomass,,AL-Wolfe_2025_TM-1_PL-AUOatPea404.1,3/4/2025,1,404.3,Pea,63.8,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_402.2,5/12/2025,2,20EXTRAPLOTS_402.2,Oat,112.2
+2025,AL01,1,AUOatPea403.2,1,image,used biomass,,AL-Wolfe_2025_TM-1_PL-AUOatPea418.2,3/4/2025,1,417.3,Pea,9.7,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_402.2,5/12/2025,2,20EXTRAPLOTS_402.2,Pea,78.95
+2025,AL01,1,AUOatPea404.3,1,image,used biomass,,AL-Wolfe_2025_TM-1_PL-AUOatPea402.1,3/4/2025,1,402.3,Other,0,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_402.2,5/12/2025,2,20EXTRAPLOTS_402.2,Other,0
+2025,AL01,1,AUOatPea417.3,1,image,used biomass,,AL-Wolfe_2025_TM-1_PL-AUOatPea403.1,3/4/2025,1,403.2,Other,0,,,AL-Wolfe_2025_TM-1_PL-AUOatPea402.3,3/4/2025,1,AUOatPea402.3,Oat,23
+2025,AL01,1,AUOatPea401.1,4,complete,good,,AL-Wolfe_2025_TM-1_PL-AUOatPea404.1,3/4/2025,1,404.3,Other,0,,,AL-Wolfe_2025_TM-1_PL-AUOatPea402.3,3/4/2025,1,AUOatPea402.3,Pea,28.2
+2025,AL01,1,AUOatPea405.3,8,complete,good,,AL-Wolfe_2025_TM-1_PL-AUOatPea418.2,3/4/2025,1,417.3,Other,0,,,AL-Wolfe_2025_TM-1_PL-AUOatPea402.3,3/4/2025,1,AUOatPea402.3,Other,0
+2025,AL01,1,AUOatPea406.2,8,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_403.1,5/12/2025,2,20EXTRAPLOTS_403.1,Oat,138.1
+2025,AL01,1,AUOatPea407.1,8,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_403.1,5/12/2025,2,20EXTRAPLOTS_403.1,Pea,0
+2025,AL01,1,AUOatPea408.1,4,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_403.1,5/12/2025,2,20EXTRAPLOTS_403.1,Other,0
+2025,AL01,1,AUOatPea409.2,8,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea403.2,3/4/2025,1,AUOatPea403.2,Oat,39.3
+2025,AL01,1,AUOatPea410.1,8,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea403.2,3/4/2025,1,AUOatPea403.2,Pea,0
+2025,AL01,1,AUOatPea411.3,4,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea403.2,3/4/2025,1,AUOatPea403.2,Other,0
+2025,AL01,1,AUOatPea412.2,4,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_404.2,5/12/2025,2,20EXTRAPLOTS_404.2,Oat,0
+2025,AL01,1,AUOatPea413.3,8,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_404.2,5/12/2025,2,20EXTRAPLOTS_404.2,Pea,321.7
+2025,AL01,1,AUOatPea414.3,8,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_404.2,5/12/2025,2,20EXTRAPLOTS_404.2,Other,0
+2025,AL01,1,AUOatPea415.2,4,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea404.3,3/4/2025,1,AUOatPea404.3,Oat,0
+2025,AL01,1,AUOatPea416.2,4,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea404.3,3/4/2025,1,AUOatPea404.3,Pea,63.8
+2025,AL01,1,AUOatPea417.1,8,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea404.3,3/4/2025,1,AUOatPea404.3,Other,0
+2025,AL01,1,AUOatPea419.1,8,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_405.2,5/12/2025,2,20EXTRAPLOTS_405.2,Oat,139
+2025,AL01,1,AUOatPea420.3,4,complete,good,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_405.2,5/12/2025,2,20EXTRAPLOTS_405.2,Pea,54.85
+2025,AL01,2,20EXTRAPLOTS_401.2,1,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_405.2,5/12/2025,2,20EXTRAPLOTS_405.2,Other,0
+2025,AL01,2,20EXTRAPLOTS_402.2,2,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea405.3,3/4/2025,1,AUOatPea405.3,Oat,43.95
+2025,AL01,2,20EXTRAPLOTS_403.1,1,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea405.3,3/4/2025,1,AUOatPea405.3,Pea,9.5
+2025,AL01,2,20EXTRAPLOTS_404.2,1,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea405.3,3/4/2025,1,AUOatPea405.3,Other,0
+2025,AL01,2,20EXTRAPLOTS_405.2,2,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_406.1,5/12/2025,2,20EXTRAPLOTS_406.1,Oat,133.95
+2025,AL01,2,20EXTRAPLOTS_406.1,2,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_406.1,5/12/2025,2,20EXTRAPLOTS_406.1,Pea,83.8
+2025,AL01,2,20EXTRAPLOTS_407.3,2,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_406.1,5/12/2025,2,20EXTRAPLOTS_406.1,Other,0
+2025,AL01,2,20EXTRAPLOTS_408.2,1,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea406.2,3/4/2025,1,AUOatPea406.2,Oat,44.5
+2025,AL01,2,20EXTRAPLOTS_409.1,2,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea406.2,3/4/2025,1,AUOatPea406.2,Pea,16.1
+2025,AL01,2,20EXTRAPLOTS_410.2,2,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea406.2,3/4/2025,1,AUOatPea406.2,Other,0
+2025,AL01,2,20EXTRAPLOTS_411.1,1,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea407.1,3/4/2025,1,AUOatPea407.1,Oat,37.45
+2025,AL01,2,20EXTRAPLOTS_412.1,1,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea407.1,3/4/2025,1,AUOatPea407.1,Pea,20
+2025,AL01,2,20EXTRAPLOTS_413.2,2,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea407.1,3/4/2025,1,AUOatPea407.1,Other,0
+2025,AL01,2,20EXTRAPLOTS_414.1,2,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_407.3,5/12/2025,2,20EXTRAPLOTS_407.3,Oat,125.6
+2025,AL01,2,20EXTRAPLOTS_415.3,1,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_407.3,5/12/2025,2,20EXTRAPLOTS_407.3,Pea,74.25
+2025,AL01,2,20EXTRAPLOTS_416.1,1,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_407.3,5/12/2025,2,20EXTRAPLOTS_407.3,Other,0
+2025,AL01,2,20EXTRAPLOTS_417.2,2,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea408.1,3/4/2025,1,AUOatPea408.1,Oat,0
+2025,AL01,2,20EXTRAPLOTS_418.3,1,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea408.1,3/4/2025,1,AUOatPea408.1,Pea,41.05
+2025,AL01,2,20EXTRAPLOTS_419.2,2,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea408.1,3/4/2025,1,AUOatPea408.1,Other,0
+2025,AL01,2,20EXTRAPLOTS_420.2,1,image,find image,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_408.2,5/12/2025,2,20EXTRAPLOTS_408.2,Oat,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_408.2,5/12/2025,2,20EXTRAPLOTS_408.2,Pea,212.9
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_408.2,5/12/2025,2,20EXTRAPLOTS_408.2,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_409.1,5/12/2025,2,20EXTRAPLOTS_409.1,Oat,137.85
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_409.1,5/12/2025,2,20EXTRAPLOTS_409.1,Pea,58.65
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_409.1,5/12/2025,2,20EXTRAPLOTS_409.1,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea409.2,3/4/2025,1,AUOatPea409.2,Oat,56.1
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea409.2,3/4/2025,1,AUOatPea409.2,Pea,8.65
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea409.2,3/4/2025,1,AUOatPea409.2,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea410.1,3/4/2025,1,AUOatPea410.1,Oat,34.4
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea410.1,3/4/2025,1,AUOatPea410.1,Pea,10.25
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea410.1,3/4/2025,1,AUOatPea410.1,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_410.2,5/12/2025,2,20EXTRAPLOTS_410.2,Oat,87.8
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_410.2,5/12/2025,2,20EXTRAPLOTS_410.2,Pea,67.55
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_410.2,5/12/2025,2,20EXTRAPLOTS_410.2,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_411.1,5/12/2025,2,20EXTRAPLOTS_411.1,Oat,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_411.1,5/12/2025,2,20EXTRAPLOTS_411.1,Pea,137.55
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_411.1,5/12/2025,2,20EXTRAPLOTS_411.1,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea411.3,3/4/2025,1,AUOatPea411.3,Oat,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea411.3,3/4/2025,1,AUOatPea411.3,Pea,23.45
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea411.3,3/4/2025,1,AUOatPea411.3,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_412.1,5/12/2025,2,20EXTRAPLOTS_412.1,Oat,181.8
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_412.1,5/12/2025,2,20EXTRAPLOTS_412.1,Pea,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_412.1,5/12/2025,2,20EXTRAPLOTS_412.1,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea412.2,3/4/2025,1,AUOatPea412.2,Oat,57
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea412.2,3/4/2025,1,AUOatPea412.2,Pea,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea412.2,3/4/2025,1,AUOatPea412.2,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_413.2,5/12/2025,2,20EXTRAPLOTS_413.2,Oat,112.75
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_413.2,5/12/2025,2,20EXTRAPLOTS_413.2,Pea,70.1
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_413.2,5/12/2025,2,20EXTRAPLOTS_413.2,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea413.3,3/4/2025,1,AUOatPea413.3,Oat,43.7
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea413.3,3/4/2025,1,AUOatPea413.3,Pea,11.7
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea413.3,3/4/2025,1,AUOatPea413.3,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_414.1,5/12/2025,2,20EXTRAPLOTS_414.1,Oat,112.85
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_414.1,5/12/2025,2,20EXTRAPLOTS_414.1,Pea,16.4
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_414.1,5/12/2025,2,20EXTRAPLOTS_414.1,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea414.3,3/4/2025,1,AUOatPea414.3,Oat,41.35
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea414.3,3/4/2025,1,AUOatPea414.3,Pea,4.3
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea414.3,3/4/2025,1,AUOatPea414.3,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea415.2,3/4/2025,1,AUOatPea415.2,Oat,34.7
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea415.2,3/4/2025,1,AUOatPea415.2,Pea,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea415.2,3/4/2025,1,AUOatPea415.2,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_415.3,5/12/2025,2,20EXTRAPLOTS_415.3,Oat,117.45
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_415.3,5/12/2025,2,20EXTRAPLOTS_415.3,Pea,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_415.3,5/12/2025,2,20EXTRAPLOTS_415.3,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_416.1,5/12/2025,2,20EXTRAPLOTS_416.1,Oat,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_416.1,5/12/2025,2,20EXTRAPLOTS_416.1,Pea,216.7
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_416.1,5/12/2025,2,20EXTRAPLOTS_416.1,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea416.2,3/4/2025,1,AUOatPea416.2,Oat,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea416.2,3/4/2025,1,AUOatPea416.2,Pea,54.3
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea416.2,3/4/2025,1,AUOatPea416.2,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_417.2,5/12/2025,2,20EXTRAPLOTS_417.2,Oat,133.75
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_417.2,5/12/2025,2,20EXTRAPLOTS_417.2,Pea,66.95
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_417.2,5/12/2025,2,20EXTRAPLOTS_417.2,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea417.1,3/4/2025,1,AUOatPea417.1,Oat,41.75
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea417.1,3/4/2025,1,AUOatPea417.1,Pea,9.7
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea417.1,3/4/2025,1,AUOatPea417.1,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea417.3,3/4/2025,1,AUOatPea417.3,Oat,48.75
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea417.3,3/4/2025,1,AUOatPea417.3,Pea,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea417.3,3/4/2025,1,AUOatPea417.3,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_418.3,5/12/2025,2,20EXTRAPLOTS_418.3,Oat,125.45
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_418.3,5/12/2025,2,20EXTRAPLOTS_418.3,Pea,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_418.3,5/12/2025,2,20EXTRAPLOTS_418.3,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea419.1,3/4/2025,1,AUOatPea419.1,Oat,46.35
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea419.1,3/4/2025,1,AUOatPea419.1,Pea,8.5
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea419.1,3/4/2025,1,AUOatPea419.1,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_419.2,5/12/2025,2,20EXTRAPLOTS_419.2,Oat,147.25
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_419.2,5/12/2025,2,20EXTRAPLOTS_419.2,Pea,24.7
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_419.2,5/12/2025,2,20EXTRAPLOTS_419.2,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_420.2,5/12/2025,2,20EXTRAPLOTS_420.2,Oat,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_420.2,5/12/2025,2,20EXTRAPLOTS_420.2,Pea,135.7
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-2_PL-20EXTRAPLOTS_420.2,5/12/2025,2,20EXTRAPLOTS_420.2,Other,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea420.3,3/4/2025,1,AUOatPea420.3,Oat,0
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea420.3,3/4/2025,1,AUOatPea420.3,Pea,18.95
+,,,,,,,,,,,,,,,,AL-Wolfe_2025_TM-1_PL-AUOatPea420.3,3/4/2025,1,AUOatPea420.3,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_031_subplot_1,11/13/2025,1,CU_ARS_2026_WOP_031_subplot_1,Oat,3.3
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_049_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_049_subplot_3,Oat,4.5
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_062_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_062_subplot_2,Oat,4.2
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_090_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_090_subplot_3,Oat,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_107_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_107_subplot_3,Oat,5.6
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_159_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_159_subplot_2,Oat,5
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_190_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_190_subplot_3,Oat,5.8
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_196_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_196_subplot_3,Oat,4.4
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_205_subplot_1,11/13/2025,1,CU_ARS_2026_WOP_205_subplot_1,Oat,3.4
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_208_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_208_subplot_2,Oat,3.8
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_219_subplot_1,11/13/2025,1,CU_ARS_2026_WOP_219_subplot_1,Oat,1.4
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_220_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_220_subplot_2,Oat,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_266_subplot_1,11/13/2025,1,CU_ARS_2026_WOP_266_subplot_1,Oat,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_281_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_281_subplot_2,Oat,3.6
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_284_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_284_subplot_3,Oat,2.3
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_298_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_298_subplot_2,Oat,6.4
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_305_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_305_subplot_3,Oat,2.2
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_323_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_323_subplot_3,Oat,3.7
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_324_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_324_subplot_2,Oat,6
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_343_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_343_subplot_3,Oat,4.1
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_344_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_344_subplot_2,Oat,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_369_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_369_subplot_2,Oat,1.2
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_381_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_381_subplot_2,Oat,2.5
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_388_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_388_subplot_2,Oat,2
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_031_subplot_1,11/13/2025,1,CU_ARS_2026_WOP_031_subplot_1,Pea,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_049_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_049_subplot_3,Pea,6.1
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_062_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_062_subplot_2,Pea,1.2
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_090_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_090_subplot_3,Pea,1.4
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_107_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_107_subplot_3,Pea,1.4
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_159_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_159_subplot_2,Pea,2
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_190_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_190_subplot_3,Pea,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_196_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_196_subplot_3,Pea,6.2
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_205_subplot_1,11/13/2025,1,CU_ARS_2026_WOP_205_subplot_1,Pea,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_208_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_208_subplot_2,Pea,2.9
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_219_subplot_1,11/13/2025,1,CU_ARS_2026_WOP_219_subplot_1,Pea,1.5
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_220_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_220_subplot_2,Pea,4.7
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_266_subplot_1,11/13/2025,1,CU_ARS_2026_WOP_266_subplot_1,Pea,2
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_281_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_281_subplot_2,Pea,2.2
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_284_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_284_subplot_3,Pea,1.4
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_298_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_298_subplot_2,Pea,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_305_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_305_subplot_3,Pea,1.4
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_323_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_323_subplot_3,Pea,3.8
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_324_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_324_subplot_2,Pea,3.4
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_343_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_343_subplot_3,Pea,2.4
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_344_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_344_subplot_2,Pea,3.5
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_369_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_369_subplot_2,Pea,1.2
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_381_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_381_subplot_2,Pea,2.9
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_388_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_388_subplot_2,Pea,1.6
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_031_subplot_1,11/13/2025,1,CU_ARS_2026_WOP_031_subplot_1,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_049_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_049_subplot_3,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_062_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_062_subplot_2,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_090_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_090_subplot_3,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_107_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_107_subplot_3,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_159_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_159_subplot_2,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_190_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_190_subplot_3,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_196_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_196_subplot_3,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_205_subplot_1,11/13/2025,1,CU_ARS_2026_WOP_205_subplot_1,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_208_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_208_subplot_2,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_219_subplot_1,11/13/2025,1,CU_ARS_2026_WOP_219_subplot_1,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_220_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_220_subplot_2,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_266_subplot_1,11/13/2025,1,CU_ARS_2026_WOP_266_subplot_1,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_281_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_281_subplot_2,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_284_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_284_subplot_3,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_298_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_298_subplot_2,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_305_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_305_subplot_3,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_323_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_323_subplot_3,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_324_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_324_subplot_2,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_343_subplot_3,11/13/2025,1,CU_ARS_2026_WOP_343_subplot_3,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_344_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_344_subplot_2,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_369_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_369_subplot_2,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_381_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_381_subplot_2,Other,0
+,,,,,,,,,,,,,,,,NY-Jannink_2025_TM-1_PL-CU_ARS_2026_WOP_388_subplot_2,11/13/2025,1,CU_ARS_2026_WOP_388_subplot_2,Other,0

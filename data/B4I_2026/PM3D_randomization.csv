@@ -1,0 +1,101 @@
+"trial","environment","rep","plot_number","row","col","plot_type","oat_id","pea_id"
+"PM3D","AL",1,101,1,1,"combo","IL20-6928","ND Victory"
+"PM3D","AL",1,102,1,2,"mono_pea",NA,"CDC Inca"
+"PM3D","AL",1,103,1,3,"combo","IL20-6928","Amariilo"
+"PM3D","AL",1,104,1,4,"combo","REINS","CDC Inca"
+"PM3D","AL",1,105,1,5,"combo","IL21-4039","Amariilo"
+"PM3D","AL",1,106,2,5,"mono_pea",NA,"Arcadia"
+"PM3D","AL",1,107,2,4,"combo","REINS","Amariilo"
+"PM3D","AL",1,108,2,3,"combo","IL20-7841","CDC Inca"
+"PM3D","AL",1,109,2,2,"combo","IL20-6928","Greenwood"
+"PM3D","AL",1,110,2,1,"combo","IL21-3542","CDC Inca"
+"PM3D","AL",1,111,3,1,"combo","REINS","Arcadia"
+"PM3D","AL",1,112,3,2,"mono_oat","IL20-6928",NA
+"PM3D","AL",1,113,3,3,"mono_oat","IL21-4039",NA
+"PM3D","AL",1,114,3,4,"mono_oat","REINS",NA
+"PM3D","AL",1,115,3,5,"mono_oat","IL20-7841",NA
+"PM3D","AL",1,116,4,5,"mono_oat","IL21-3542",NA
+"PM3D","AL",1,117,4,4,"mono_pea",NA,"Greenwood"
+"PM3D","AL",1,118,4,3,"combo","IL20-6928","Arcadia"
+"PM3D","AL",1,119,4,2,"mono_pea",NA,"Amariilo"
+"PM3D","AL",1,120,4,1,"mono_pea",NA,"ND Victory"
+"PM3D","IA",1,101,1,1,"combo","IL20-7841","Arcadia"
+"PM3D","IA",1,102,1,2,"combo","IL21-3542","CDC Inca"
+"PM3D","IA",1,103,1,3,"mono_pea",NA,"Amariilo"
+"PM3D","IA",1,104,1,4,"combo","IL21-4039","CDC Inca"
+"PM3D","IA",1,105,1,5,"combo","IL20-7841","Amariilo"
+"PM3D","IA",1,106,2,5,"mono_oat","IL20-6928",NA
+"PM3D","IA",1,107,2,4,"mono_pea",NA,"Greenwood"
+"PM3D","IA",1,108,2,3,"mono_oat","IL20-7841",NA
+"PM3D","IA",1,109,2,2,"mono_oat","IL21-3542",NA
+"PM3D","IA",1,110,2,1,"combo","IL21-4039","Arcadia"
+"PM3D","IA",1,111,3,1,"combo","REINS","Greenwood"
+"PM3D","IA",1,112,3,2,"combo","IL20-7841","CDC Inca"
+"PM3D","IA",1,113,3,3,"combo","IL21-3542","Amariilo"
+"PM3D","IA",1,114,3,4,"mono_oat","REINS",NA
+"PM3D","IA",1,115,3,5,"mono_pea",NA,"Arcadia"
+"PM3D","IA",1,116,4,5,"mono_pea",NA,"CDC Inca"
+"PM3D","IA",1,117,4,4,"mono_pea",NA,"ND Victory"
+"PM3D","IA",1,118,4,3,"combo","IL20-6928","Arcadia"
+"PM3D","IA",1,119,4,2,"mono_oat","IL21-4039",NA
+"PM3D","IA",1,120,4,1,"combo","IL20-7841","ND Victory"
+"PM3D","IL",1,101,1,1,"mono_oat","IL20-6928",NA
+"PM3D","IL",1,102,1,2,"combo","REINS","CDC Inca"
+"PM3D","IL",1,103,1,3,"combo","IL21-4039","Amariilo"
+"PM3D","IL",1,104,1,4,"combo","IL21-3542","Arcadia"
+"PM3D","IL",1,105,1,5,"combo","IL20-6928","ND Victory"
+"PM3D","IL",1,106,2,5,"combo","REINS","Arcadia"
+"PM3D","IL",1,107,2,4,"mono_oat","IL21-3542",NA
+"PM3D","IL",1,108,2,3,"combo","IL21-4039","Arcadia"
+"PM3D","IL",1,109,2,2,"mono_oat","IL20-7841",NA
+"PM3D","IL",1,110,2,1,"mono_oat","REINS",NA
+"PM3D","IL",1,111,3,1,"combo","IL21-3542","ND Victory"
+"PM3D","IL",1,112,3,2,"mono_oat","IL21-4039",NA
+"PM3D","IL",1,113,3,3,"mono_pea",NA,"CDC Inca"
+"PM3D","IL",1,114,3,4,"combo","IL20-6928","Amariilo"
+"PM3D","IL",1,115,3,5,"mono_pea",NA,"Arcadia"
+"PM3D","IL",1,116,4,5,"mono_pea",NA,"Greenwood"
+"PM3D","IL",1,117,4,4,"mono_pea",NA,"Amariilo"
+"PM3D","IL",1,118,4,3,"combo","IL20-7841","Arcadia"
+"PM3D","IL",1,119,4,2,"mono_pea",NA,"ND Victory"
+"PM3D","IL",1,120,4,1,"combo","IL21-4039","Greenwood"
+"PM3D","ND",1,101,1,1,"mono_pea",NA,"Greenwood"
+"PM3D","ND",1,102,1,2,"combo","IL21-4039","ND Victory"
+"PM3D","ND",1,103,1,3,"mono_pea",NA,"Amariilo"
+"PM3D","ND",1,104,1,4,"mono_oat","IL20-7841",NA
+"PM3D","ND",1,105,1,5,"mono_pea",NA,"ND Victory"
+"PM3D","ND",1,106,2,5,"combo","REINS","CDC Inca"
+"PM3D","ND",1,107,2,4,"combo","IL20-6928","Greenwood"
+"PM3D","ND",1,108,2,3,"combo","IL20-7841","Arcadia"
+"PM3D","ND",1,109,2,2,"mono_pea",NA,"CDC Inca"
+"PM3D","ND",1,110,2,1,"combo","IL20-6928","Arcadia"
+"PM3D","ND",1,111,3,1,"mono_oat","REINS",NA
+"PM3D","ND",1,112,3,2,"combo","IL21-4039","Arcadia"
+"PM3D","ND",1,113,3,3,"mono_oat","IL21-3542",NA
+"PM3D","ND",1,114,3,4,"mono_oat","IL21-4039",NA
+"PM3D","ND",1,115,3,5,"combo","IL20-7841","ND Victory"
+"PM3D","ND",1,116,4,5,"mono_pea",NA,"Arcadia"
+"PM3D","ND",1,117,4,4,"combo","IL21-4039","Amariilo"
+"PM3D","ND",1,118,4,3,"mono_oat","IL20-6928",NA
+"PM3D","ND",1,119,4,2,"combo","IL21-3542","CDC Inca"
+"PM3D","ND",1,120,4,1,"combo","IL20-7841","Amariilo"
+"PM3D","NY",1,101,1,1,"combo","IL20-6928","Amariilo"
+"PM3D","NY",1,102,1,2,"mono_oat","IL21-3542",NA
+"PM3D","NY",1,103,1,3,"mono_pea",NA,"ND Victory"
+"PM3D","NY",1,104,1,4,"mono_oat","IL20-7841",NA
+"PM3D","NY",1,105,1,5,"mono_pea",NA,"Amariilo"
+"PM3D","NY",1,106,2,5,"mono_oat","IL21-4039",NA
+"PM3D","NY",1,107,2,4,"mono_oat","REINS",NA
+"PM3D","NY",1,108,2,3,"combo","IL20-7841","Arcadia"
+"PM3D","NY",1,109,2,2,"mono_oat","IL20-6928",NA
+"PM3D","NY",1,110,2,1,"combo","IL21-3542","CDC Inca"
+"PM3D","NY",1,111,3,1,"combo","REINS","Greenwood"
+"PM3D","NY",1,112,3,2,"combo","IL21-4039","Arcadia"
+"PM3D","NY",1,113,3,3,"combo","IL20-7841","CDC Inca"
+"PM3D","NY",1,114,3,4,"mono_pea",NA,"Arcadia"
+"PM3D","NY",1,115,3,5,"combo","IL21-4039","Greenwood"
+"PM3D","NY",1,116,4,5,"combo","IL20-7841","Amariilo"
+"PM3D","NY",1,117,4,4,"combo","REINS","ND Victory"
+"PM3D","NY",1,118,4,3,"mono_pea",NA,"Greenwood"
+"PM3D","NY",1,119,4,2,"combo","IL21-3542","Amariilo"
+"PM3D","NY",1,120,4,1,"mono_pea",NA,"CDC Inca"

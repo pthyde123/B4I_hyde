@@ -1,0 +1,121 @@
+current_year,affiliation,timing,plot_id,count,missing,,,Image Name (from PlantMap3D app),Sample Date,Timing,Plot ID,Species,Dry Wt (g),,,Image Name (from PlantMap3D app),Sample Date,Timing,Plot ID,Species,Dry Wt (g)
+2025,ND02,1,1.2,2,image,find image,,ND-Berti_2025_TM-3_PL-1.1,7/9/2025,2,1.1,Oat,326.5,,,ND-Berti_2025_TM-1_PL-1.2,6/18/2025,1,1.2,Oat,31.5
+2025,ND02,1,10.3,2,image,find image,,ND-Berti_2025_TM-3_PL-1.1,7/9/2025,2,1.1,Pea,0,,,ND-Berti_2025_TM-1_PL-1.2,6/18/2025,1,1.2,Pea,0
+2025,ND02,1,11.2,2,image,find image,,ND-Berti_2025_TM-3_PL-1.1,7/9/2025,2,1.1,Other,4,,,ND-Berti_2025_TM-1_PL-1.2,6/18/2025,1,1.2,Other,1.5
+2025,ND02,1,12.2,3,image,find image,,ND-Berti_2025_TM-3_PL-2.3,7/9/2025,2,2.3,Oat,141.5,,,ND-Berti_2025_TM-1_PL-2.2,6/18/2025,1,2.2,Oat,12
+2025,ND02,1,13.2,2,image,find image,,ND-Berti_2025_TM-3_PL-2.3,7/9/2025,2,2.3,Pea,61.5,,,ND-Berti_2025_TM-1_PL-2.2,6/18/2025,1,2.2,Pea,6
+2025,ND02,1,14.2,3,image,find image,,ND-Berti_2025_TM-3_PL-2.3,7/9/2025,2,2.3,Other,72,,,ND-Berti_2025_TM-1_PL-2.2,6/18/2025,1,2.2,Other,2.1
+2025,ND02,1,15.1,2,image,find image,,ND-Berti_2025_TM-3_PL-3.1,7/9/2025,2,3.1,Oat,0,,,ND-Berti_2025_TM-1_PL-3.2,6/18/2025,1,3.2,Oat,0
+2025,ND02,1,16.2,3,image,find image,,ND-Berti_2025_TM-3_PL-3.1,7/9/2025,2,3.1,Pea,132,,,ND-Berti_2025_TM-1_PL-3.2,6/18/2025,1,3.2,Pea,23
+2025,ND02,1,17.2,2,image,find image,,ND-Berti_2025_TM-3_PL-3.1,7/9/2025,2,3.1,Other,43,,,ND-Berti_2025_TM-1_PL-3.2,6/18/2025,1,3.2,Other,3.6
+2025,ND02,1,18.2,3,image,find image,,ND-Berti_2025_TM-3_PL-4.1,7/9/2025,2,4.1,Oat,198.5,,,ND-Berti_2025_TM-1_PL-4.3,6/18/2025,1,4.3,Oat,17
+2025,ND02,1,19.2,2,image,find image,,ND-Berti_2025_TM-3_PL-4.1,7/9/2025,2,4.1,Pea,48.5,,,ND-Berti_2025_TM-1_PL-4.3,6/18/2025,1,4.3,Pea,11.5
+2025,ND02,1,2.2,3,image,find image,,ND-Berti_2025_TM-3_PL-4.1,7/9/2025,2,4.1,Other,93.5,,,ND-Berti_2025_TM-1_PL-4.3,6/18/2025,1,4.3,Other,2.81
+2025,ND02,1,20.2,3,image,find image,,ND-Berti_2025_TM-3_PL-5.3,7/9/2025,2,5.3,Oat,258,,,ND-Berti_2025_TM-1_PL-5.1,6/18/2025,1,5.1,Oat,32.5
+2025,ND02,1,3.2,2,image,find image,,ND-Berti_2025_TM-3_PL-5.3,7/9/2025,2,5.3,Pea,0,,,ND-Berti_2025_TM-1_PL-5.1,6/18/2025,1,5.1,Pea,0
+2025,ND02,1,4.3,3,image,find image,,ND-Berti_2025_TM-3_PL-5.3,7/9/2025,2,5.3,Other,73,,,ND-Berti_2025_TM-1_PL-5.1,6/18/2025,1,5.1,Other,1.64
+2025,ND02,1,5.1,2,image,find image,,ND-Berti_2025_TM-3_PL-6.3,7/9/2025,2,6.3,Oat,290.5,,,ND-Berti_2025_TM-1_PL-6.2,6/18/2025,1,6.2,Oat,24.5
+2025,ND02,1,6.2,3,image,find image,,ND-Berti_2025_TM-3_PL-6.3,7/9/2025,2,6.3,Pea,43.5,,,ND-Berti_2025_TM-1_PL-6.2,6/18/2025,1,6.2,Pea,20.5
+2025,ND02,1,7.3,2,image,find image,,ND-Berti_2025_TM-3_PL-6.3,7/9/2025,2,6.3,Other,15.5,,,ND-Berti_2025_TM-1_PL-6.2,6/18/2025,1,6.2,Other,1.09
+2025,ND02,1,8.1,3,image,find image,,ND-Berti_2025_TM-3_PL-7.1,7/9/2025,2,7.1,Oat,0,,,ND-Berti_2025_TM-1_PL-7.3,6/18/2025,1,7.3,Oat,0
+2025,ND02,1,9.1,1,image,find image,,ND-Berti_2025_TM-3_PL-7.1,7/9/2025,2,7.1,Pea,167.5,,,ND-Berti_2025_TM-1_PL-7.3,6/18/2025,1,7.3,Pea,21.5
+2025,ND02,2,1.1,2,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-7.1,7/9/2025,2,7.1,Other,39,,,ND-Berti_2025_TM-1_PL-7.3,6/18/2025,1,7.3,Other,0.3
+2025,ND02,2,10.2,2,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-8.2,7/9/2025,2,8.2,Oat,261.5,,,ND-Berti_2025_TM-1_PL-8.1,6/18/2025,1,8.1,Oat,21
+2025,ND02,2,11.1,2,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-8.2,7/9/2025,2,8.2,Pea,97.5,,,ND-Berti_2025_TM-1_PL-8.1,6/18/2025,1,8.1,Pea,14.5
+2025,ND02,2,12.1,3,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-8.2,7/9/2025,2,8.2,Other,0,,,ND-Berti_2025_TM-1_PL-8.1,6/18/2025,1,8.1,Other,0.5
+2025,ND02,2,13.1,2,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-9.2,7/9/2025,2,9.2,Oat,381,,,ND-Berti_2025_TM-1_PL-9.1,6/18/2025,1,9.1,Oat,0
+2025,ND02,2,14.1,3,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-9.2,7/9/2025,2,9.2,Pea,0,,,ND-Berti_2025_TM-1_PL-9.1,6/18/2025,1,9.1,Pea,0
+2025,ND02,2,15.3,1,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-9.2,7/9/2025,2,9.2,Other,0,,,ND-Berti_2025_TM-1_PL-9.1,6/18/2025,1,9.1,Other,0.5
+2025,ND02,2,16.1,3,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-10.2,7/9/2025,2,10.2,Oat,235.5,,,ND-Berti_2025_TM-1_PL-10.3,6/18/2025,1,10.3,Oat,11.5
+2025,ND02,2,17.3,2,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-10.2,7/9/2025,2,10.2,Pea,82.5,,,ND-Berti_2025_TM-1_PL-10.3,6/18/2025,1,10.3,Pea,16
+2025,ND02,2,18.3,3,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-10.2,7/9/2025,2,10.2,Other,0,,,ND-Berti_2025_TM-1_PL-10.3,6/18/2025,1,10.3,Other,0
+2025,ND02,2,19.1,2,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-11.1,7/9/2025,2,11.1,Oat,323.5,,,ND-Berti_2025_TM-1_PL-11.2,6/18/2025,1,11.2,Oat,67.5
+2025,ND02,2,2.3,3,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-11.1,7/9/2025,2,11.1,Pea,0,,,ND-Berti_2025_TM-1_PL-11.2,6/18/2025,1,11.2,Pea,0
+2025,ND02,2,20.1,3,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-11.1,7/9/2025,2,11.1,Other,8,,,ND-Berti_2025_TM-1_PL-11.2,6/18/2025,1,11.2,Other,1.39
+2025,ND02,2,3.1,2,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-12.1,7/9/2025,2,12.1,Oat,289.5,,,ND-Berti_2025_TM-1_PL-12.2,6/18/2025,1,12.2,Oat,25.5
+2025,ND02,2,4.1,3,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-12.1,7/9/2025,2,12.1,Pea,46.5,,,ND-Berti_2025_TM-1_PL-12.2,6/18/2025,1,12.2,Pea,13.5
+2025,ND02,2,5.3,2,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-12.1,7/9/2025,2,12.1,Other,12.5,,,ND-Berti_2025_TM-1_PL-12.2,6/18/2025,1,12.2,Other,5.83
+2025,ND02,2,6.3,3,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-13.1,7/9/2025,2,13.1,Oat,0,,,ND-Berti_2025_TM-1_PL-13.2,6/18/2025,1,13.2,Oat,0
+2025,ND02,2,7.1,2,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-13.1,7/9/2025,2,13.1,Pea,199,,,ND-Berti_2025_TM-1_PL-13.2,6/18/2025,1,13.2,Pea,22
+2025,ND02,2,8.2,2,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-13.1,7/9/2025,2,13.1,Other,37.5,,,ND-Berti_2025_TM-1_PL-13.2,6/18/2025,1,13.2,Other,14.67
+2025,ND02,2,9.2,1,image,delete,timepoint 2 biomass collection,ND-Berti_2025_TM-3_PL-14.1,7/9/2025,2,14.1,Oat,163.5,,,ND-Berti_2025_TM-1_PL-14.2,6/18/2025,1,14.2,Oat,31.5
+2025,ND02,3,1.1,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-14.1,7/9/2025,2,14.1,Pea,152.5,,,ND-Berti_2025_TM-1_PL-14.2,6/18/2025,1,14.2,Pea,19
+2025,ND02,3,10.2,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-14.1,7/9/2025,2,14.1,Other,11.5,,,ND-Berti_2025_TM-1_PL-14.2,6/18/2025,1,14.2,Other,0.96
+2025,ND02,3,11.1,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-15.3,7/9/2025,2,15.3,Oat,347.5,,,ND-Berti_2025_TM-1_PL-15.1,6/18/2025,1,15.1,Oat,37
+2025,ND02,3,12.1,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-15.3,7/9/2025,2,15.3,Pea,0,,,ND-Berti_2025_TM-1_PL-15.1,6/18/2025,1,15.1,Pea,0
+2025,ND02,3,13.1,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-15.3,7/9/2025,2,15.3,Other,0,,,ND-Berti_2025_TM-1_PL-15.1,6/18/2025,1,15.1,Other,0.5
+2025,ND02,3,14.1,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-16.1,7/9/2025,2,16.1,Oat,257.5,,,ND-Berti_2025_TM-1_PL-16.2,6/18/2025,1,16.2,Oat,17.5
+2025,ND02,3,15.3,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-16.1,7/9/2025,2,16.1,Pea,64,,,ND-Berti_2025_TM-1_PL-16.2,6/18/2025,1,16.2,Pea,17
+2025,ND02,3,16.1,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-16.1,7/9/2025,2,16.1,Other,3.5,,,ND-Berti_2025_TM-1_PL-16.2,6/18/2025,1,16.2,Other,1
+2025,ND02,3,17.3,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-17.3,7/9/2025,2,17.3,Oat,0,,,ND-Berti_2025_TM-1_PL-17.2,6/18/2025,1,17.2,Oat,0
+2025,ND02,3,18.3,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-17.3,7/9/2025,2,17.3,Pea,246.5,,,ND-Berti_2025_TM-1_PL-17.2,6/18/2025,1,17.2,Pea,29
+2025,ND02,3,2.3,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-17.3,7/9/2025,2,17.3,Other,26.5,,,ND-Berti_2025_TM-1_PL-17.2,6/18/2025,1,17.2,Other,5.9
+2025,ND02,3,20.1,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-18.3,7/9/2025,2,18.3,Oat,231.5,,,ND-Berti_2025_TM-1_PL-18.2,6/18/2025,1,18.2,Oat,12
+2025,ND02,3,3.1,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-18.3,7/9/2025,2,18.3,Pea,117,,,ND-Berti_2025_TM-1_PL-18.2,6/18/2025,1,18.2,Pea,15
+2025,ND02,3,4.1,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-18.3,7/9/2025,2,18.3,Other,7.5,,,ND-Berti_2025_TM-1_PL-18.2,6/18/2025,1,18.2,Other,5.5
+2025,ND02,3,5.3,8,biomass,added biomass,,ND-Berti_2025_TM-3_PL-20.1,7/9/2025,2,20.1,Oat,315,,,ND-Berti_2025_TM-1_PL-19.2,6/18/2025,1,19.2,Oat,0
+2025,ND02,3,6.3,8,biomass,added biomass,,ND-Berti_2025_TM-3_PL-20.1,7/9/2025,2,20.1,Pea,77.5,,,ND-Berti_2025_TM-1_PL-19.2,6/18/2025,1,19.2,Pea,24.5
+2025,ND02,3,7.1,4,biomass,added biomass,,ND-Berti_2025_TM-3_PL-20.1,7/9/2025,2,20.1,Other,25,,,ND-Berti_2025_TM-1_PL-19.2,6/18/2025,1,19.2,Other,14.84
+2025,ND02,3,8.2,4,biomass,added biomass,,,,,,,,,,ND-Berti_2025_TM-1_PL-20.2,6/18/2025,1,20.2,Oat,24
+2025,ND02,3,9.2,4,biomass,added biomass,,,,,,,,,,ND-Berti_2025_TM-1_PL-20.2,6/18/2025,1,20.2,Pea,8
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-1_PL-20.2,6/18/2025,1,20.2,Other,9.78
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-1.1,7/9/2025,2,1.1,Oat,326.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-1.1,7/9/2025,2,1.1,Pea,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-1.1,7/9/2025,2,1.1,Other,4
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-2.3,7/9/2025,2,2.3,Oat,141.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-2.3,7/9/2025,2,2.3,Pea,61.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-2.3,7/9/2025,2,2.3,Other,72
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-3.1,7/9/2025,2,3.1,Oat,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-3.1,7/9/2025,2,3.1,Pea,132
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-3.1,7/9/2025,2,3.1,Other,43
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-4.1,7/9/2025,2,4.1,Oat,198.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-4.1,7/9/2025,2,4.1,Pea,48.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-4.1,7/9/2025,2,4.1,Other,93.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-5.3,7/9/2025,2,5.3,Oat,258
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-5.3,7/9/2025,2,5.3,Pea,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-5.3,7/9/2025,2,5.3,Other,73
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-6.3,7/9/2025,2,6.3,Oat,290.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-6.3,7/9/2025,2,6.3,Pea,43.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-6.3,7/9/2025,2,6.3,Other,15.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-7.1,7/9/2025,2,7.1,Oat,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-7.1,7/9/2025,2,7.1,Pea,167.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-7.1,7/9/2025,2,7.1,Other,39
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-8.2,7/9/2025,2,8.2,Oat,261.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-8.2,7/9/2025,2,8.2,Pea,97.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-8.2,7/9/2025,2,8.2,Other,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-9.2,7/9/2025,2,9.2,Oat,381
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-9.2,7/9/2025,2,9.2,Pea,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-9.2,7/9/2025,2,9.2,Other,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-10.2,7/9/2025,2,10.2,Oat,235.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-10.2,7/9/2025,2,10.2,Pea,82.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-10.2,7/9/2025,2,10.2,Other,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-11.1,7/9/2025,2,11.1,Oat,323.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-11.1,7/9/2025,2,11.1,Pea,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-11.1,7/9/2025,2,11.1,Other,8
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-12.1,7/9/2025,2,12.1,Oat,289.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-12.1,7/9/2025,2,12.1,Pea,46.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-12.1,7/9/2025,2,12.1,Other,12.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-13.1,7/9/2025,2,13.1,Oat,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-13.1,7/9/2025,2,13.1,Pea,199
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-13.1,7/9/2025,2,13.1,Other,37.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-14.1,7/9/2025,2,14.1,Oat,163.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-14.1,7/9/2025,2,14.1,Pea,152.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-14.1,7/9/2025,2,14.1,Other,11.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-15.3,7/9/2025,2,15.3,Oat,347.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-15.3,7/9/2025,2,15.3,Pea,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-15.3,7/9/2025,2,15.3,Other,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-16.1,7/9/2025,2,16.1,Oat,257.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-16.1,7/9/2025,2,16.1,Pea,64
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-16.1,7/9/2025,2,16.1,Other,3.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-17.3,7/9/2025,2,17.3,Oat,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-17.3,7/9/2025,2,17.3,Pea,246.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-17.3,7/9/2025,2,17.3,Other,26.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-18.3,7/9/2025,2,18.3,Oat,231.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-18.3,7/9/2025,2,18.3,Pea,117
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-18.3,7/9/2025,2,18.3,Other,7.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-19.1,7/9/2025,2,19.1,Oat,0
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-19.1,7/9/2025,2,19.1,Pea,210
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-19.1,7/9/2025,2,19.1,Other,57
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-20.1,7/9/2025,2,20.1,Oat,315
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-20.1,7/9/2025,2,20.1,Pea,77.5
+,,,,,,,,,,,,,,,,ND-Berti_2025_TM-2_PL-20.1,7/9/2025,2,20.1,Other,25

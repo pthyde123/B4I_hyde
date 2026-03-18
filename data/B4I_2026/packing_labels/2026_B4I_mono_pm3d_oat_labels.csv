@@ -1,0 +1,41 @@
+source,PlotNo,oatName,peaName
+combo,101-PM3D aka 6.2,IL20-6928,CDC AMARILLO
+mono_oat,102-mono aka 26.04,IL20-6928,NA
+mono_oat,109-PM3D aka 143.87,IL20-6928,NA
+mono_oat,202-mono aka 244.54,IL20-6928,NA
+mono_oat,104-PM3D aka 25.1,IL20-7841,NA
+combo,108-PM3D aka 138.42,IL20-7841,ARCADIA
+mono_oat,107-mono aka 178.5,IL20-7841,NA
+combo,113-PM3D aka 283.82,IL20-7841,CDC INCA
+mono_oat,203-mono aka 288.71,IL20-7841,NA
+combo,116-PM3D aka 321.11,IL20-7841,CDC AMARILLO
+mono_oat,102-PM3D aka 15.59,IL21-3542,NA
+mono_oat,106-mono aka 126.62,IL21-3542,NA
+combo,110-PM3D aka 161.62,IL21-3542,CDC INCA
+mono_oat,207-mono aka 350.95,IL21-3542,NA
+combo,119-PM3D aka 376.21,IL21-3542,CDC AMARILLO
+mono_oat,103-mono aka 64.98,IL21-4039,NA
+mono_oat,106-PM3D aka 98.33,IL21-4039,NA
+combo,112-PM3D aka 265.15,IL21-4039,ARCADIA
+mono_oat,206-mono aka 310.41,IL21-4039,NA
+combo,115-PM3D aka 316.06,IL21-4039,GREENWOOD
+mono_oat,107-PM3D aka 108.27,REINS,NA
+mono_oat,110-mono aka 197.36,REINS,NA
+combo,111-PM3D aka 205.3,REINS,GREENWOOD
+combo,117-PM3D aka 330.53,REINS,ND VICTORY
+mono_oat,208-mono aka 354.86,REINS,NA
+mono_pea,101-mono aka 9.46,NA,ND VICTORY
+mono_pea,103-PM3D aka 23.09,NA,ND VICTORY
+mono_pea,105-PM3D aka 65.06,NA,CDC AMARILLO
+mono_pea,104-mono aka 66.56,NA,GREENWOOD
+mono_pea,105-mono aka 73.84,NA,CDC INCA
+mono_pea,108-mono aka 182.54,NA,CDC AMARILLO
+mono_pea,109-mono aka 182.88,NA,ARCADIA
+mono_pea,201-mono aka 209.38,NA,CDC INCA
+mono_pea,114-PM3D aka 295.8,NA,ARCADIA
+mono_pea,204-mono aka 299.15,NA,ND VICTORY
+mono_pea,205-mono aka 301.15,NA,ARCADIA
+mono_pea,209-mono aka 360.66,NA,GREENWOOD
+mono_pea,118-PM3D aka 365.34,NA,GREENWOOD
+mono_pea,210-mono aka 373.94,NA,CDC AMARILLO
+mono_pea,120-PM3D aka 382.07,NA,CDC INCA

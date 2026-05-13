@@ -83,6 +83,7 @@ plot_oat_yield %>%
   
   filter(locationName != "Tallassee, AL") %>% 
   filter(locationName != "Urbana, IL") %>% 
+  filter(locationName != "Ithaca,NY") %>% 
   
   ggplot(aes(sub_2_oat_height_T2,oat_yield, color= locationName))+
   geom_point() +
@@ -99,12 +100,42 @@ plot_oat_yield %>%
 
 
 
+plot_oat_yield %>% 
+  left_join(subplot_mean_height, join_by(observationUnitName == sub_name)) %>% 
+  left_join(subplot_2_height, join_by(observationUnitName == sub_name)) %>% 
+  
+  filter(locationName != "Tallassee, AL") %>% 
+  filter(locationName != "Urbana, IL") %>% 
+  filter(locationName != "Ithaca, NY") %>%
+  
+  
+  ggplot(aes(sub_2_oat_height_T2,oat_yield))+
+  geom_point() +
+  geom_smooth(se = TRUE, method = "lm")+
+  xlab("Oat Height")+
+  ylab("Oat Yield")+
+  scale_color_brewer(palette="Dark2")+
+  theme_classic()+
+  theme(axis.text.x=element_text(angle = 90, hjust = 1))+
+  theme(axis.text=element_text(size=20), axis.title=element_text(size=20,face="bold"))+
+  theme(axis.text.x = element_text(face = "bold", color = "black", size = 16))+
+  theme(axis.text.y = element_text(face = "bold", color = "black", size = 16))
+
+
+
+
+
+
+
+
+
 lm_data <- plot_oat_yield %>% 
   left_join(subplot_mean_height, join_by(observationUnitName == sub_name)) %>% 
   left_join(subplot_2_height, join_by(observationUnitName == sub_name)) %>% 
   
   filter(locationName != "Tallassee, AL") %>% 
-  filter(locationName != "Urbana, IL") 
+  filter(locationName != "Urbana, IL") %>% 
+  filter(locationName != "Ithaca, NY")
 
 
 lm <- lm(oat_yield ~ mean_oat_height_T2 + locationName, lm_data ) 

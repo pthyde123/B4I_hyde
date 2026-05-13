@@ -155,14 +155,26 @@ mutate(row = rep(c(1:22), each = 20)) %>%
 mutate(col = rep(c(1:20, 20:1), times = 11))
 
 
-full_randomization 
-
+full_randomization
 
 ggplot(full_randomization, aes(x = col, y = row, fill = plot_number)) +
   geom_tile()
 
-
 unique(pea_ny$pea_id)
+
+### Field Map 
+
+map <- full_randomization %>% 
+  mutate(plot = str_c(plot_number,"_",str_sub(trial,1,1))) %>% 
+  select(plot,row,col) %>% 
+  pivot_wider(names_from = col,
+              values_from = plot) %>% 
+  arrange(-row)
+
+
+
+write.table(map, "clipboard", sep="\t", row.names=FALSE)
+
 
 
 ### Mono trial and PM3D trial envelopes
@@ -282,6 +294,10 @@ full_randomization %>%
   left_join(pea_ny, join_by(pea_id)) %>% 
   
   select(trial, plot_number, oat_id, pea_id, rand_plot, oatE, g_oat_per_plot, peaE, g_pea_per_plot,plot_type)
+
+
+
+
 
 
 
